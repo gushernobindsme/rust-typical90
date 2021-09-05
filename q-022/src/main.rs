@@ -1,7 +1,7 @@
 // -*- coding:utf-8-unix -*-
 
-use proconio::input;
 use num::integer::gcd;
+use proconio::input;
 
 fn main() {
     input! {
