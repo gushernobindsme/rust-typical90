@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+    "q-002",
     "q-004",
     "q-010",
     "q-022",

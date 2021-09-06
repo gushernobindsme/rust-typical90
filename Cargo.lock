@@ -158,6 +158,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "q-002"
+version = "0.1.0"
+dependencies = [
+ "cli_test_dir",
+ "proconio",
+]
+
+[[package]]
 name = "q-004"
 version = "0.1.0"
 dependencies = [
